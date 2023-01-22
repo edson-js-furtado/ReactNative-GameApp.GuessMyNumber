@@ -6,4 +6,6 @@ BULDING REAL APP AND LAYOUT
 
 • Complex Layouts and Styles
 
-• Adding Reusable Components and Style
+• Adding Reusable Components and Style\
+
+• Adaptive User Interface (Adapte to Platform & Devices Size)
