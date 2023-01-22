@@ -8,5 +8,5 @@ BULDING REAL APP AND LAYOUT
 
 • Adding Reusable Components and Style\
 
-• Adaptive User Interface (Adapte to Platform & Devices Size) / Landscape and Portrait Mode
+• Responsive/Adaptive User Interface (Adapte to Platform & Devices Size) / Landscape and Portrait Mode
   
